@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.banner {
+  background-color: white;
+  position: center;
+  padding: 5%;ss
+}
+
+.maplink {
+  background-color: #9AD490;
+  position: center;
+  padding: 5%;
+}
+
+.section811link {
+  background-color: #90BCD4;
+  position: center;
+  padding: 5%;
+}
+
+.propertylist {
+  background-color: #CA90D4;
+  position: center;
+  padding: 5%;
+}
